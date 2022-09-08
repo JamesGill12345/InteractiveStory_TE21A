@@ -1,0 +1,15 @@
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\bin\Debug\net6.0\InteractiveStory_TE21A.exe
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\bin\Debug\net6.0\InteractiveStory_TE21A.deps.json
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\bin\Debug\net6.0\InteractiveStory_TE21A.runtimeconfig.json
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\bin\Debug\net6.0\InteractiveStory_TE21A.dll
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\bin\Debug\net6.0\InteractiveStory_TE21A.pdb
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.csproj.AssemblyReference.cache
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.AssemblyInfoInputs.cache
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.AssemblyInfo.cs
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.csproj.CoreCompileInputs.cache
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.dll
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\refint\InteractiveStory_TE21A.dll
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.pdb
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\InteractiveStory_TE21A.genruntimeconfig.cache
+C:\Users\james.gill\Documents\programering\InteractiveStory_TE21A\InteractiveStory_TE21A\obj\Debug\net6.0\ref\InteractiveStory_TE21A.dll
